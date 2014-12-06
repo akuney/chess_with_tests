@@ -1,0 +1,15 @@
+# Logfile created on 2014-12-06 16:26:08 -0500 by logger.rb/v1.2.7
+I, [2014-12-06T16:26:08.638000 #57014]  INFO -- : 0:  ansi (1.4.3) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/ansi-1.4.3.gemspec
+I, [2014-12-06T16:26:09.769000 #57014]  INFO -- : 0:  builder (3.2.2) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/builder-3.2.2.gemspec
+I, [2014-12-06T16:26:11.004000 #57014]  INFO -- : 0:  minitest (5.4.3) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/minitest-5.4.3.gemspec
+I, [2014-12-06T16:26:12.234000 #57014]  INFO -- : 0:  ruby-progressbar (1.7.0) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/ruby-progressbar-1.7.0.gemspec
+I, [2014-12-06T16:26:13.734000 #57014]  INFO -- : 0:  minitest-reporters (1.0.8) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/minitest-reporters-1.0.8.gemspec
+I, [2014-12-06T16:26:14.984000 #57014]  INFO -- : 0:  shoulda-context (1.2.1) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/shoulda-context-1.2.1.gemspec
+I, [2014-12-06T16:26:14.988000 #57014]  INFO -- : 0:  bundler (1.5.1) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/bundler-1.5.1.gemspec
+I, [2014-12-06T16:51:50.336000 #57456]  INFO -- : 0:  ansi (1.4.3) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/ansi-1.4.3.gemspec
+I, [2014-12-06T16:51:50.345000 #57456]  INFO -- : 0:  builder (3.2.2) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/builder-3.2.2.gemspec
+I, [2014-12-06T16:51:50.349000 #57456]  INFO -- : 0:  minitest (5.4.3) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/minitest-5.4.3.gemspec
+I, [2014-12-06T16:51:50.353000 #57456]  INFO -- : 0:  ruby-progressbar (1.7.0) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/ruby-progressbar-1.7.0.gemspec
+I, [2014-12-06T16:51:50.358000 #57456]  INFO -- : 0:  minitest-reporters (1.0.8) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/minitest-reporters-1.0.8.gemspec
+I, [2014-12-06T16:51:50.362000 #57456]  INFO -- : 0:  shoulda-context (1.2.1) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/shoulda-context-1.2.1.gemspec
+I, [2014-12-06T16:51:50.367000 #57456]  INFO -- : 0:  bundler (1.5.1) from /Users/andre.kuney/Projects/code/conf/vms/ruby/jruby-1.7.9/lib/ruby/gems/shared/specifications/bundler-1.5.1.gemspec

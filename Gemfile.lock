@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ansi (1.4.3)
+    builder (3.2.2)
+    minitest (5.4.3)
+    minitest-reporters (1.0.8)
+      ansi
+      builder
+      minitest (>= 5.0)
+      ruby-progressbar
+    ruby-progressbar (1.7.0)
+    shoulda-context (1.2.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  minitest
+  minitest-reporters
+  shoulda-context
